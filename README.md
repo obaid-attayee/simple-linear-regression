@@ -1,6 +1,6 @@
 # simple-linear-regression
 This project is meant to provide an overview of simple linear regression, how the model is computed, and how certain metrics are calculated and their significance. The regression model is built in 2 different ways: 
-1) by manually calculating the the regression and metrics, and 
+1) by manually calculating the the regression line and metrics, and 
 2) by using the scikit-learn library. 
 
 The dataset used is from Kaggle @ https://www.kaggle.com/andonians/random-linear-regression.
